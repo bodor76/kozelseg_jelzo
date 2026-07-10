@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <title>Fiók törlése – Közelség Jelző</title>
+</head>
+<body>
+    <h1>Fiók törlése – Közelség Jelző</h1>
+
+    <p>
+        Ha szeretnéd törölni a fiókodat és a hozzá kapcsolódó adataidat,
+        kérlek küldj egy e-mailt az alábbi címre:
+    </p>
+
+    <p><strong>kozelsegjelzo@gmail.com</strong></p>
+
+    <p>Az e-mail tárgya legyen: <strong>„Fiók törlése”</strong>.</p>
+
+    <p>Az e-mailben add meg az alábbiakat:</p>
+    <ul>
+        <li>az alkalmazás neve: <strong>Közelség Jelző</strong></li>
+        <li>a fiókhoz tartozó e-mail cím (ha van)</li>
+        <li>minden olyan adat, ami segít azonosítani a fiókodat</li>
+    </ul>
+
+    <p>
+        A kérelmet <strong>30 napon belül</strong> feldolgozzuk, és a fiókhoz kapcsolódó
+        adatokat véglegesen töröljük, kivéve azokat, amelyeket jogszabály kötelezően
+        előír (például számviteli vagy adózási okokból).
+    </p>
+
+    <p>
+        A törlés után a fiók és a hozzá kapcsolódó adatok nem állíthatók vissza.
+    </p>
+</body>
+</html>
