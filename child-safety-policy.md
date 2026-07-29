@@ -1,7 +1,7 @@
 # Gyermekbiztonsági Normák és Irányelvek (Child Safety Policy)
 
 **Alkalmazás neve:** Közelség Jelző
-**Kapcsolat:** viktor.bodor76@gmail.com
+**Kapcsolat:** viktor.bodor@bodorsoft.com
 
 A Közelség Jelző alkalmazás elkötelezett a gyermekek védelme mellett. Szigorúan tiltunk és zéró toleranciát alkalmazunk minden olyan tevékenységgel, tartalommal vagy magatartással szemben, amely a gyermekek szexuális kizsákmányolásával vagy bántalmazásával (CSAE / CSAM) kapcsolatos.
 
